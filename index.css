@@ -40,7 +40,7 @@ p {
 .year:before {
   position:absolute;
   left: 0px;
-  content: "○";
+  content: "●";
 }
 
 /*
