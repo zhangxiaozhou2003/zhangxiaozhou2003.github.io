@@ -1,5 +1,5 @@
 body {
-  font-family: 'Garamond', serif;
+  font-family: 'Computer Modern Serif', serif;
   width: 95%;
   margin: auto;
 }
@@ -73,7 +73,7 @@ footer {
 }
 
 .bio, .journey, .contact {
-  margin-bottom: 140px;
+  margin-bottom: 125px;
 }
 
 h4, h3 {
