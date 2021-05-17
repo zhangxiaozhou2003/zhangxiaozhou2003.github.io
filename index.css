@@ -38,8 +38,7 @@ p {
 }
 
 .year {
-  font-family: 'Courier New', monospace;
-  font-weight: bold;
+  font-family: 'Georgia', serif;
 }
 
 .year:before {
