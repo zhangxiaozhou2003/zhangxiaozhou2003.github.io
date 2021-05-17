@@ -1,5 +1,5 @@
 body {
-  font-family: 'Times New Roman', "Hiragino Sans GB", "Microsoft YaHei",  "WenQuanYi Micro Hei", serif;
+  font-family: 'Times New Roman', serif;
   width: 95%;
   margin: auto;
 }
@@ -65,11 +65,11 @@ footer {
 }
 
 .bio {
-  margin-top: 200px;
+  margin-top: 150px;
 }
 
 .bio, .journey, .contact {
-  margin-bottom: 80px;
+  margin-bottom: 110px;
 }
 
 h4, h3 {
