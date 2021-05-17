@@ -28,7 +28,7 @@ a {
   margin-left:15px;
   border-left: 1px dashed black;
   padding-left: 5px;
-  margin-bottom: 30px;
+  margin-bottom: 45px;
 }
 
 .event:before {
@@ -65,9 +65,9 @@ footer {
 }
 
 .bio, .journey, .contact {
-  margin-bottom: 50px;
+  margin-bottom: 80px;
 }
 
 h4, h3 {
-  font-family: "Helvetica";
+  font-family: Arial, Helvetica, sans-serif;
 }
