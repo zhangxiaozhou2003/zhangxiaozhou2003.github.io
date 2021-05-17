@@ -14,10 +14,6 @@ p {
   line-height: 150%;
 }
 
-.chinese {
-  font-family: serif;
-}
-
 .timeline {
   position:relative;
 }
@@ -59,6 +55,7 @@ h4 {
 
 footer {
   margin-top: -50px;
+  height: 50px;
 }
 
 .footer-inner {
@@ -79,5 +76,5 @@ footer {
 
 h4, h3 {
   font-family: 'Courier New', monospace;
-  color: #ff0000;
+  color: #d92e27;
 }
