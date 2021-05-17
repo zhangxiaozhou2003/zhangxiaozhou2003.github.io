@@ -1,0 +1,45 @@
+body {
+  font-family: "Computer Modern Serif", sans-serif;
+  width: 95%;
+}
+
+a {
+  color: inherit;
+  border-bottom: 1px dotted black;
+  text-decoration: none;
+}
+
+.timeline {
+  position:relative;
+}
+
+.timeline::after {
+  content: '';
+  position: absolute;
+  left: 0px;
+  top: 0%;
+  height: 100%;
+  border-left: 4px solid black;
+}
+
+
+.event {
+  margin-left:15px;
+  border-left: 1px dashed black;
+  padding-left: 5px;
+  margin-bottom: 10px;
+}
+
+.event:before {
+  position:absolute;
+  left: 0px;
+  height: 3px;
+  background: #c00;
+  content: "";
+  width: 15px;
+  display: block;
+}
+
+.event > .year {
+  margin-bottom: -15px
+}
