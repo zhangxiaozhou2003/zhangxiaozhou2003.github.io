@@ -48,3 +48,18 @@ a {
 h4 {
   margin-bottom: -15px;
 }
+
+footer {
+  position: fixed; 
+  bottom: 0px; 
+  left: 0px; 
+  right: 0px;
+}
+
+.footer-inner {
+  font-family: "Microsoft YaHei", sans-serif;
+  text-align: center;
+  width: 700px;
+  margin: auto;
+  color: grey;
+}
