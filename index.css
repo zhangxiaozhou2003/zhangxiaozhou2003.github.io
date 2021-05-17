@@ -1,5 +1,5 @@
 body {
-  font-family: 'Times New Roman', serif;
+  font-family: 'Garamond', serif;
   width: 95%;
   margin: auto;
 }
@@ -8,6 +8,10 @@ a {
   color: inherit;
   border-bottom: 1px dotted black;
   text-decoration: none;
+}
+
+p {
+  line-height: 150%;
 }
 
 .timeline {
@@ -69,9 +73,10 @@ footer {
 }
 
 .bio, .journey, .contact {
-  margin-bottom: 110px;
+  margin-bottom: 140px;
 }
 
 h4, h3 {
   font-family: 'Courier New', monospace;
+  color: #d92e27;
 }
