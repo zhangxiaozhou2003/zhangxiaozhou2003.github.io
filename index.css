@@ -37,6 +37,10 @@ p {
   margin-bottom: 45px;
 }
 
+.year {
+  font-family: 'Courier New', monospace;
+}
+
 .year:before {
   position:absolute;
   left: 0px;
