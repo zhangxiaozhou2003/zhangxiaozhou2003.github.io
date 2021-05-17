@@ -15,7 +15,7 @@ p {
 }
 
 .chinese {
-  font-family: 'Georgia', serif;
+  font-family: 'Courier New', serif;
 }
 
 .timeline {
@@ -82,5 +82,5 @@ footer {
 
 h4, h3 {
   font-family: 'Courier New', monospace;
-  color: #d92e27;
+  color: #ff2400;
 }
