@@ -39,6 +39,7 @@ p {
 
 .year {
   font-family: 'Courier New', monospace;
+  font-weight: bold;
 }
 
 .year:before {
