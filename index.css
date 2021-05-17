@@ -58,10 +58,7 @@ h4 {
 }
 
 footer {
-  position: fixed; 
-  bottom: 0px; 
-  left: 0px; 
-  right: 0px;
+  margin-top: -50px;
 }
 
 .footer-inner {
@@ -82,5 +79,5 @@ footer {
 
 h4, h3 {
   font-family: 'Courier New', monospace;
-  color: #bc1717;
+  color: #ff0000;
 }
